@@ -15,7 +15,7 @@ So, well, fuck it, let's do a custom one.
 
 ## Colors
 
-* foreground: #cfe1e4
+* foreground: #cecece
 * background: #151515
 * selection foreground: #808080
 * selection background: #151515
