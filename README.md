@@ -3,6 +3,10 @@ My personal terminal color scheme
 
 This is an update to the old Cocktail color scheme, with mostly the same goals as the first Cocktail color scheme: be colorful but not flashy, but this time, with colors that goes more into pastel.
 
+## Screenshot
+
+![preview image](.github/screenshot.png?raw=true)
+
 ## Why yet another color scheme?
 
 I've spent too much time looking for a dark color scheme that is not blue-ish (solarized, dracula...) or brown-ish (gruvbox, molokai...), and couldn't find what i wanted.
